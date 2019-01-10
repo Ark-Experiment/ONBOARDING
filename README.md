@@ -14,7 +14,7 @@
 
 因为要和母公司的同事联系，我们也是[企业微信](https://work.weixin.qq.com/)的用户。在入职之后，HR 会向你提供的手机号发送企业微信的注册邀请。注册后即可加入企业微信上的团队。
 
-如果你不能访问 [GMail](https://www.gmail.com/)，请先与 CTO 石头联系。
+如果你不能访问 [Gmail](https://www.gmail.com/)，请先与 CTO 石头联系。
 
 公司邮箱可以正常使用后，请找石头或徐栖开通 Slack 账号。
 
